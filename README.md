@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Pedro Spinosa
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=ML+Engineer+%40+Nubank;AI+Platform+%7C+MLOps+%26+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=600&height=100&lines=ML+Engineer+%40+Nubank;AI+Platform+%7C+MLOps+%26+Infra" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
