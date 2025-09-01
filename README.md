@@ -22,5 +22,5 @@ I'm a **Machine Learning Engineer** at Nubank, passionate about building reliabl
 ---
 
 <div align="center">
-  <i>🚀 "Empowering AI teams with robust, scalable platforms"</i>
+  <i>"Only those who take risks deserve to live the extraordinary, above the clouds!"</i>
 </div> 
